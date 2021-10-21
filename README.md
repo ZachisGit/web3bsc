@@ -1,7 +1,7 @@
 # web3bsc
 
-Python web3 build for the Binance Smart Chain. Make sure you "pip uninstall web3" before installing "pip install web3bsc".
-After that you can import web3 into your projects as usual.
+Python web3 build for the Binance Smart Chain. Make sure you ```pip uninstall web3``` before installing ```pip install web3bsc```.
+After that you can ```import web3``` into your projects as usual.
 
 ```python
 import web3
